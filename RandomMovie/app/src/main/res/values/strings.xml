@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RandomMovie</string>
+    <string name="next">Следующий фильм</string>
+    <string name="reset">Начать заново</string>
+    <string name="empty">Здесь появится фильм</string>
+    <string name="no_more">Фильмы закончились!</string>
+    <string-array name="movies">
+        <item>Начало</item>
+        <item>Шоу Трумана</item>
+        <item>Маска</item>
+        <item>Матрица</item>
+        <item>Матрица 2</item>
+        <item>Матрица 3</item>
+        <item>Матрица 3</item>
+        <item>Би Муви</item>
+    </string-array>
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RandomMovie</string>
+    <string name="next">Next movie</string>
+    <string name="reset">Reset</string>
+    <string name="empty">A movie will appear here</string>
+    <string name="no_more">No more movies!</string>
+    <string-array name="movies">
+        <item>Inception</item>
+        <item>Truman Show</item>
+        <item>Mask</item>
+        <item>Matrix</item>
+        <item>Matrix 2 </item>
+        <item>Matrix 3 </item>
+        <item>Matrix 4 keke </item>
+        <item>Bee movie</item>
+    </string-array>
+</resources>
