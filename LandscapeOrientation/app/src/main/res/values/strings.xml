@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LandScapeOrientation</string>
+    <string-array name="pictures">
+        <item>Car 1</item>
+        <item>Car 2</item>
+        <item>Car 3</item>
+    </string-array>
+</resources>
